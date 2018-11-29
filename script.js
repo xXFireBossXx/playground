@@ -1,3 +1,7 @@
+//import
+
+import processing.opengl;
+
 //vars
 
 var nodeSize = 10;
